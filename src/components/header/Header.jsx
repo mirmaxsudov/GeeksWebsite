@@ -5,6 +5,7 @@ import { Container } from 'reactstrap';
 import { CiVideoOn } from 'react-icons/ci';
 import { IoTimeOutline } from 'react-icons/io5';
 import { GoPeople } from 'react-icons/go';
+import Login from './Login';
 
 const Header = () => {
     return (
@@ -40,7 +41,7 @@ const Header = () => {
                         </Button>
                     </div>
                     <div className="col-5">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum a veritatis natus maxime sapiente? Voluptas animi, harum obcaecati ducimus dolore exercitationem eum dolorem quod, et sapiente, autem modi nihil velit voluptatem ullam minus voluptates vero iste id! Unde voluptatibus mollitia totam fugit aliquid neque, accusantium iste magnam minus! Quisquam quam illo excepturi nostrum debitis voluptatibus nihil. Consequatur veniam vero officia ut, officiis sunt nihil aliquam nostrum nemo, iste expedita assumenda, illum voluptate tempora repellat. Placeat rem natus fugiat corrupti, eius, tenetur vero voluptate tempora, magni cupiditate perspiciatis neque! Commodi similique aspernatur consectetur reprehenderit voluptas nisi ab modi impedit delectus tenetur!
+                        <Login />
                     </div>
                 </Row>
             </Container>
