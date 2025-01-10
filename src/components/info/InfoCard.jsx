@@ -52,8 +52,8 @@ const ImgWrapper = styled.div`
     margin-bottom: 20px;
     margin-right: 20px;
     img {
-        width: 60px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
         user-select: none;
     }
 `
@@ -64,7 +64,7 @@ const LinkStyle = styled.div`
         color: #754FFE;
     }
 `
-
+    
 const Grey = styled.span`
     color: #64748B;
 `

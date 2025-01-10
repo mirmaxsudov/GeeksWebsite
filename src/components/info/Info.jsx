@@ -29,6 +29,7 @@ const Info = () => {
             course: "Courses - 2",
             lesson: "4 Lessons ",
             time: "32 MIN",
+            link: "View Chapter Details +",
             isFree: false
         },
         {
@@ -39,6 +40,7 @@ const Info = () => {
             course: "Courses - 3",
             lesson: "8 Lessons",
             time: "10 MIN",
+            link: "View Chapter Details +",
             isFree: false
         },
         {
@@ -49,6 +51,7 @@ const Info = () => {
             course: "Courses - 4",
             lesson: "10 Lessons",
             time: "32 MIN",
+            link: "View Chapter Details +",
             isFree: false
         },
     ]
