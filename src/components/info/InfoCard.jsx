@@ -64,7 +64,7 @@ const LinkStyle = styled.div`
         color: #754FFE;
     }
 `
-    
+
 const Grey = styled.span`
     color: #64748B;
 `
