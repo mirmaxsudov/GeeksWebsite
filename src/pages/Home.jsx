@@ -8,6 +8,7 @@ import Company from '../components/company/Company'
 import Learners from '../components/learn/Learners'
 import Question from '../components/question/Question'
 import LearnInfo from '../components/learn/LearnInfo'
+import Footer from '../components/footer/Footer'
 
 const Home = () => {
     return (
@@ -21,6 +22,7 @@ const Home = () => {
             <Learners />
             <Question />
             <LearnInfo />
+            <Footer />
         </>
     )
 }

@@ -28,7 +28,7 @@ const Login = () => {
                     <GreySpan>By continuing you accept the</GreySpan> Terms of Use, Privacy Policy, <GreySpan>and</GreySpan> Data Policy
                 </p>
             </LoginWrapper>
-            <ImageBg src={Bg} className="w-100" alt="" />
+            <ImageBg src={Bg} className="w-75" alt="" />
         </div>
     )
 }
@@ -40,7 +40,7 @@ const ImageBg = styled.img`
     height: 350px;
     opacity: .5;
     top: 230px;
-    left: 130px;
+    left: 200px;
     overflow: hidden;
     user-select: none;
 `
